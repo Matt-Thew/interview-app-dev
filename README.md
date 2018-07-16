@@ -7,7 +7,7 @@ Welcome to GoPomelo App Dev Team! As a candidate, you may be asked for testing y
 
 # Choose project you like
 You can choose any projects, no limit, one project at least.
-- [HappyJSON] - help me transform JSON to Java Object
+- [HappyJSON](https://github.com/gopomelo-app/interview-app-dev/tree/master/projects/happy-json) - help me transform JSON to Java Object
 - [APIWow] - create a simple Spring Boot project (with maven or gradle)
 - [BootStrapLover] - create html web app with BootStrap Framework
 - [AngularLover] - build and run a simple Angular application in TypeScript, using the Angular CLI
