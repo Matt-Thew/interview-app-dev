@@ -1,0 +1,15 @@
+{
+  "field": "feed",
+  "value": {
+    "item": "status",
+    "post_id": "44444444_444444444",
+    "verb": "add",
+    "published": 1,
+    "created_time": 1531707738,
+    "message": "Example post content.",
+    "from": {
+      "name": "Test Page",
+      "id": "1067280970047460"
+    }
+  }
+}
