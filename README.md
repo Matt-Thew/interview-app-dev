@@ -16,6 +16,7 @@ You can choose any projects, no limit, one project at least.
 
 # Say something before submit
 - You may use Google Docs or MS Word to describe code, process, wrokflow
+- Please describe as if you were assigned and were having a great job on your career path, very happy on that. Some day you have got a new assign role in development - which is completely different and it will be on going for almost a year. We would like to know your opinions about that.
 
 # How to deliver
 - The project should be runnable on localhost. If it's not, please tell us
