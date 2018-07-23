@@ -2,7 +2,7 @@
 Welcome to GoPomelo App Dev Team! As a candidate, you may be asked for testing your development skills as Full Stack Developer.
 
 # Before you begin
-- Please README carefully
+- Please README
 - Clone or download this project
 
 # Choose project you like
