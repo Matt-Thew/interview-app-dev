@@ -1,7 +1,5 @@
 # HappyJSON
-You are assigned to transform Entry.json file to Entry.java by coding.
-- Please show your skill to define Entry variable as Java Object
-- Add Getter and Setter for the Entry
-- At main process write more codes to set all variables in Entry Object
-- Put the Entry to List interface
-- Convert Entry to JSON as String and print it
+- You are assigned to create Entry object that has local variables the same as in Entry json file
+- As can be seen in json file, you also need to create more Value and From objects
+- Remaining variables should also be created
+- Use your Java skill to create getter and getter for each variable
