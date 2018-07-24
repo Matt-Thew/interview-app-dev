@@ -1,0 +1,27 @@
+[
+  {
+    "card_holder": "Beatrice L. Iacovelli",
+    "card_number": "6645704301899058",
+    "timestamp": "2012-04-23T18:25:43.511Z",
+    "amount": 6542.32,
+    "status": "paid"
+  }, {
+    "card_holder": "Dolores J. Pooley",
+    "card_number": "6645704301896950",
+    "timestamp": "2012-04-23T18:25:43.511Z",
+    "amount": 2005.89,
+    "status": "failed"
+  }, {
+    "card_holder": "Francisca S. Lobb",
+    "card_number": "6645704301898451",
+    "timestamp": "2012-04-23T18:25:43.511Z",
+    "amount": 346.89,
+    "status": "failed"
+  }, {
+    "card_holder": "James A. Wert",
+    "card_number": "6645704301892258",
+    "timestamp": "2012-04-23T18:25:43.511Z",
+    "amount": 145,
+    "status": "paid"
+  }
+]
